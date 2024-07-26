@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="374140b1-9295-4978-a1f0-1440eab008b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Operadores/Operadores.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variaveis/Variaveis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiposVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variaveis/src/TiposVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores/src/Operadores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/Aulas Dio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TiposVariaveis/src/TiposVariaveis.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +63,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/viand/Programação/Git e GitHub/Workspace/Desafios de Projetos DIO/PJ1 (Repositório GitHub)/TiposVariaveis",
+    "last_opened_file_path": "C:/Users/viand/Programação/Git e GitHub/Workspace/Desafios de Projetos DIO/PJ1 (Repositório GitHub)/Aulas Dio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,6 +113,7 @@
       <workItem from="1721954895259" duration="52000" />
       <workItem from="1721955001232" duration="897000" />
       <workItem from="1722007529740" duration="3531000" />
+      <workItem from="1722011486439" duration="366000" />
     </task>
     <servers />
   </component>
