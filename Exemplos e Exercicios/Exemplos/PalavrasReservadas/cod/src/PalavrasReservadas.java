@@ -1,7 +1,8 @@
+package cods;
 
 public class PalavrasReservadas {
 
-            // Controle de pacotes
+    // Controle de pacotes
 
 // import: importa pacotes ou classes para dentro do código
 // package: especifica a que pacote todas as classes de um arquivo pertencem
@@ -75,4 +76,3 @@ public class PalavrasReservadas {
 // goto: não implementada na linguagem Java, por ser considerada prejudicial
 
 }
-

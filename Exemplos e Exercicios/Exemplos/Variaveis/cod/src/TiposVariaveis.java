@@ -1,4 +1,4 @@
-package src;
+package cod.src;
 
 import java.util.Comparator;
 
@@ -53,10 +53,10 @@ public class TiposVariaveis {
         String str2 = "def";
         System.out.println("Comparação: " + comparator.compare(str1, str2));
 
-    // Enumeração DiaDaSemana
-    enum DiaDaSemana {
-        DOMINGO, SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO
-    }
+        // Enumeração DiaDaSemana
+        enum DiaDaSemana {
+            DOMINGO, SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO
+        }
 
         // Exemplo de Conversão Explícita (Casting)
 
@@ -70,5 +70,6 @@ public class TiposVariaveis {
 
         final double VALOR_DE_PI = 3.14;
         //VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!
+
     }
 }

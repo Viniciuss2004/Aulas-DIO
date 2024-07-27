@@ -1,0 +1,8 @@
+Abrir o terminal, ir onde está o projeto como no exemplo abaixo:
+
+C:\Users\viand\Programação\Git e GitHub\Workspace\Curso da DIO\Exemplos e Exercicios\Exemplos\Métodos\cod
+
+e digitar esse código "javadoc -encoding UTF-8 -docencoding ISO-8859-1 -d ../docs src/*.java
+" isso ira fazer a documentação do projeto. 
+
+para acessar basta entrar na pasta docs que foi criada e acessar o index.html!
