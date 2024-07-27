@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Métodos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Operadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/PalavrasReservadas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Variaveis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicios/Televisão" isTestSource="false" />
     </content>

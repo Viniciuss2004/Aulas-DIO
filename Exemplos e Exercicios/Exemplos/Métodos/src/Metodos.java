@@ -10,7 +10,7 @@ public class Metodos {
         metodoEstatico();
 
         // Criando uma instância da classe para chamar o método de instância
-        Metodos metodos = new Metodos();
+        src.Metodos metodos = new src.Metodos();
         metodos.metodoDeInstancia();
     }
 
