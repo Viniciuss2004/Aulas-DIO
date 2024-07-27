@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Comparator;
 
 public class TiposVariaveis {
@@ -30,7 +32,7 @@ public class TiposVariaveis {
         int[] numeros = {1, 2, 3, 4, 5};
 
         // Enumeração DiaDaSemana
-        DiaDaSemana hoje = DiaDaSemana.SEGUNDA;
+        //DiaDaSemana hoje = DiaDaSemana.SEGUNDA;
 
         // Classe anônima Comparator
         Comparator<String> comparator = new Comparator<String>() {
@@ -44,7 +46,7 @@ public class TiposVariaveis {
         System.out.println(saudacao);
         runnable.run();
         System.out.println("Primeiro número: " + numeros[0]);
-        System.out.println("Hoje é: " + hoje);
+        System.out.println("Hoje é: ");
 
         // Comparação usando Comparator
         String str1 = "abc";
@@ -67,6 +69,6 @@ public class TiposVariaveis {
         isso é considerado uma CONSTANTE na linguagem Java */
 
         final double VALOR_DE_PI = 3.14;
-        VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!
+        //VALOR_DE_PI=3.15; //Esta linha vai apresentar erro de compilação!
     }
 }

@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso da DIO.iml" filepath="$PROJECT_DIR$/.idea/Curso da DIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exemplos e Exercicios/Exemplos/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Exemplos e Exercicios/Exemplos/Operadores/Operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Projetos/Projetos.iml" filepath="$PROJECT_DIR$/Projetos/Projetos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exemplos e Exercicios/Exemplos/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Exemplos e Exercicios/Exemplos/Variaveis/Variaveis.iml" />
     </modules>
   </component>
 </project>
