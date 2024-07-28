@@ -1,12 +1,8 @@
-package cods;
+package cod.src;
 
 public class PalavrasReservadas {
 
-<<<<<<< HEAD:Exemplos e Exercicios/Exemplos/PalavrasReservadas/cod/src/PalavrasReservadas.java
     // Controle de pacotes
-=======
-// Controle de pacotes
->>>>>>> 9ceceab03c8ebf9687bf0ba339bf439fb0fe1fc2:Exemplos e Exercicios/Exemplos/PalavrasReservadas/PalavrasReservadas.java
 
 // import: importa pacotes ou classes para dentro do código
 // package: especifica a que pacote todas as classes de um arquivo pertencem

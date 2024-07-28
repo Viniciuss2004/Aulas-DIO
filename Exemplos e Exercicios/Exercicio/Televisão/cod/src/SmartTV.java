@@ -1,3 +1,5 @@
+package cod.src;
+
 public class SmartTV {
 
     boolean ligada = false;
