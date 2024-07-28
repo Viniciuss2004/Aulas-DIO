@@ -136,6 +136,6 @@ public class Operadores {
 
            ((t1 + t2) < (a1 - a2)) && true: false
            (t1 + t2) || (a1 - a2) && true: false */
-
+        
     }
 }
