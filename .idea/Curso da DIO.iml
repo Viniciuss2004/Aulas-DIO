@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/sad" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos/PJ1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/ControleDeFluxo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/ControleDeFluxo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Operadores" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
