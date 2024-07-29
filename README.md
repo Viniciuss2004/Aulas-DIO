@@ -6,3 +6,4 @@ Aqui estão todos os Desafios de Projetos que eu fiz pela DIO
 
 [Sintaxe Basica de MarkDown](https://markdown.net.br/sintaxe-basica/)  
 [Java Básico](https://glysns.gitbook.io/java-basico)
+[Tutorial Java](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
