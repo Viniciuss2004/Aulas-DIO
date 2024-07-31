@@ -6,7 +6,7 @@ public class Data {
 
     public static void main(String[] args) {
 
-        System.out.println("Digite o dia atual: ");
+        /*System.out.println("Digite o dia atual: ");
         Scanner sc = new Scanner(System.in);
         int dia = sc.nextInt();
 
@@ -16,7 +16,8 @@ public class Data {
         System.out.println("Digite o ano atual: ");
         int ano = sc.nextInt();
 
-        System.out.println("0" + dia + "/0" + mes + "/" + ano);
+        System.out.println("0" + dia + "/0" + mes + "/" + ano);*/
+
 
     }
 }
