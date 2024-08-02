@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Operadores" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Métodos" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
