@@ -3,25 +3,32 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Métodos" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Operadores" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/PalavrasReservadas" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Variaveis" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Televisão" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicios/Televisão" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/rascunho" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/teste/nn" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/Execução" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/sad" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projetos/PJ1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exemplos/ControleDeFluxo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/ControleDeFluxo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Operadores" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Loops" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exemplos e Exercicios/Exercicio/Métodos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Desafios/Desafio 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Desafios/Desafio 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Desafios/Desafio 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Desafios/Desafio 4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Desafios/Desafio 5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/ControleDeFluxo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Execução" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Métodos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Operadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/PalavrasReservadas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Variaveis" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/sad" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/ControleDeFluxo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Métodos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Operadores" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Retorno" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Sobrecarga" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Televisão" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicios/Televisão" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/rascunho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/teste/nn" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
