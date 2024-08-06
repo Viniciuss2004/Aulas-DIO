@@ -29,6 +29,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicios/Televisão" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/rascunho" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/teste/nn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Carro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Herança" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
