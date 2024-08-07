@@ -1,4 +1,4 @@
-package cod.src;
+package cod.src.Veiculo;
 
 public class Moto extends Veiculo {
 }

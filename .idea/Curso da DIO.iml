@@ -31,6 +31,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/teste/nn" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Carro" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Herança" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Associação" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

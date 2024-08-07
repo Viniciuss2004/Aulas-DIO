@@ -1,4 +1,4 @@
-package cod.src;
+package cod.src.Veiculo;
 
 public class Veiculo {
 
