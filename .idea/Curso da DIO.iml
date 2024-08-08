@@ -18,20 +18,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/PalavrasReservadas" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Variaveis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/sad" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Arrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/ControleDeFluxo" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Loops" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Métodos" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Operadores" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Retorno" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Sobrecarga" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Televisão" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicios/Televisão" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/rascunho" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/teste/nn" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Carro" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Herança" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exercicio/Associação" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Desafios - Exercicios - Exemplos/Exemplos/Lists" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

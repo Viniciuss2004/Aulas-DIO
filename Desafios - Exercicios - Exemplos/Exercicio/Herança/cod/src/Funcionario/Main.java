@@ -1,6 +1,6 @@
 package cod.src.Funcionario;
 
-public class MainFun {
+public class Main {
 
     public static void main(String[] args) {
 

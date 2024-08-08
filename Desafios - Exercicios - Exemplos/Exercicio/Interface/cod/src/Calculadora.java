@@ -1,6 +1,6 @@
 package Exercicio.Interface.cod.src;
 
-public class Calculadora implements OperacaoMatematica{
+public class Calculadora implements OperacaoMatematica {
 
     @Override
     public void soma(Double num1, Double num2) {

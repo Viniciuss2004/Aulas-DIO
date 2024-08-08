@@ -1,4 +1,8 @@
-package cod.src;
+package Exercicio.Métodos.cod.src;
+
+import cod.src.Calculadora;
+import cod.src.Emprestimo;
+import cod.src.Mensagem;
 
 import java.text.Normalizer;
 import java.util.Scanner;

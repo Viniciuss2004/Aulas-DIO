@@ -1,6 +1,6 @@
 package cod.src;
 
-public class MainCarro {
+public class Main {
 
     public static void main(String[] args) {
 
