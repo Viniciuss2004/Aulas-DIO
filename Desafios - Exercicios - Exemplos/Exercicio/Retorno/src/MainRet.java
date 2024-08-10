@@ -1,6 +1,5 @@
 package Exercicio.Retorno.src;
 
-import cod.src.QuadrilateroReturn;
 
 import java.text.Normalizer;
 import java.util.Scanner;
