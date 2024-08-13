@@ -25,6 +25,11 @@ public class LinguagemFavorita {
             System.out.println(metodo.getNome() + " - " + metodo.getAnoDeCriacao() + " - " + metodo.getIDE());
         }
 
+        System.out.println("Ordem natural (IDE)");
+        Set<Metodo> linguagemFavorita2 = new TreeSet<>(linguagemFavorita);
+        for (Metodo metodo : linguagemFavorita2) {
+            System.out.println(metodo.getIDE() + " - " + metodo.getAnoDeCriacao() + " - " + metodo.getNome());
+        }
 
     }
 }
@@ -60,4 +65,5 @@ class Metodo implements Comparable<Metodo> {
 
         return Integer.compare(this.getAnoDeCriacao(), metodo.getAnoDeCriacao());
     }
+
 }

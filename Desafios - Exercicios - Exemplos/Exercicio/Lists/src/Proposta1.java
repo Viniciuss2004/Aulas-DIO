@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Proposta01 {
+public class Proposta1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
